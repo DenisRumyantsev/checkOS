@@ -1,8 +1,8 @@
 Steps:
 
-* Install [dotnet 2.1](https://dotnet.microsoft.com/download/dotnet/2.1)
+* Install [dotnet 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
 
 * Run next commands via terminal:
   * `dotnet new console --force`
-  * `git restore .`
+  * `git restore Program.cs`
   * `dotnet run`
